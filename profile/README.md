@@ -1,4 +1,4 @@
-![Skript Logo Wide-Short](https://user-images.githubusercontent.com/29044720/174934285-160ae290-3bfd-4c00-849e-606e8cda32f4.png)
+![SkriptLang Cover](https://user-images.githubusercontent.com/29044720/175615129-c0047336-acd9-43c5-9355-5ecf89f5bfe5.jpg)
 
 # SkriptLang
 
