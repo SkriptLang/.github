@@ -1,6 +1,6 @@
 name: Suggestion
 description: Suggest a new feature or change for the project.
-type: "suggestion"
+type: "Suggestion"
 body:
   - type: markdown
     attributes:

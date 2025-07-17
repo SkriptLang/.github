@@ -37,8 +37,8 @@ Note that information about a report (excluding the reporter) may be shared with
 ### Guidelines
 
 We may take any of the following actions to uphold our standards.
-These guidelines will be used to determine what action to take for any violations.
-However, note that what action is taken is at the discretion of the enforcer.
+There may be more specific actions available depending on the platform (mutes, kicks, etc.).
+Note that these guidelines are not strict, and what action is taken is at the discretion of the enforcer.
 
 If we detect attempts to circumvent these actions, more serious measures may be taken.
 
@@ -46,8 +46,6 @@ If we detect attempts to circumvent these actions, more serious measures may be 
 
 For singular violations, we may issue a warning and recommend avoiding interactions in the affected space for a short period.
 A warning would typically be issued privately, through a medium such as direct messages.
-
-#### Mute
 
 #### Temporary Ban
 

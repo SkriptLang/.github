@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         > [!IMPORTANT]
-        > Before filing a report, please ensure you are running a supported version of the project. \
+        > Before filing a report, please ensure you are running a supported version of the project.
   - type: textarea
     attributes:
       label: Project Version
@@ -26,7 +26,7 @@ body:
   - type: textarea
     attributes:
       label: Expected Behavior
-      description: What was supposed to happen? If you're not sure, please state so.
+      description: What was supposed to happen? If you are unsure, please state so.
     validations:
       required: true
   - type: textarea
@@ -34,7 +34,7 @@ body:
       label: Steps to Reproduce
       description: |
         What did you do to make this problem happen? Try to be as thorough as possible.
-        You may include any code if necessary. Please make sure it is actually testable by someone.
+        You may include any code if necessary. Please ensure it is actually testable by someone.
     validations:
       required: true
   - type: textarea
