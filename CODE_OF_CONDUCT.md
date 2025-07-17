@@ -5,7 +5,8 @@
 As a community, we pledge to make our space harassment-free for everyone, regardless of
 age, race, education, religion, ethnicity, disability, gender identity, sexual orientation,
 and all other characteristics that form our identities.
-We vow to ensure that no user feel negatively (scared, threatened, intimidated, etc.) because of who they are.
+We vow to ensure that no user feels negatively (scared, threatened, intimidated, etc.) because of who they are.
+
 
 Examples of positive behavior that build up our community include:
 - Showing kindness and empathy toward other people
@@ -25,7 +26,7 @@ In enacting and abiding by these standards, our goal is to foster an open and di
 
 ### Contact
 
-To report violations any violations of these standards (or any other conduct that you believe is unacceptable):
+To report any violations of these standards (or any other conduct that you believe is unacceptable):
 1. You may email us: admin@skriptlang.org
 2. You may [join our Discord](https://discord.gg/ZPsZAg6ygu) and message a member of the SkriptLang team.
 

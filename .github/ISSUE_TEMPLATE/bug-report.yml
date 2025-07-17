@@ -13,7 +13,7 @@ body:
       label: Project Version
       description: |
         Please include the version of the project you are running.
-        Additionally, include additional information around the dependencies you are using.
+        Additionally, include additional information about the dependencies you are using.
         For example, for issues related to addons, you should include the server software and its version, the Skript version, and any other relevant plugins or dependencies. This information may be obtained by executing a command such as `/sk info`.
     validations:
       required: true
